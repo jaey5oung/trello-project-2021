@@ -62,7 +62,7 @@ export const listsReducer = (state = initialState, action) => {
         droppableIdEnd,
         droppableIndexStart,
         droppableIndexEnd,
-        draggableId,
+        //draggableId,
         type,
       } = action.payload;
       const newState = [...state];
