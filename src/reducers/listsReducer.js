@@ -10,15 +10,15 @@ const initialState = [
     cards: [
       {
         id: `card-${0}`,
-        text: 'Finish Redux Tutorial',
+        text: 'Finish Redux Tutorial.',
       },
       {
         id: `card-${1}`,
-        text: 'Build ToDo App',
+        text: 'Build ToDo App.',
       },
       {
         id: `list-${2}`,
-        text: 'Commit to Git',
+        text: 'Commit to Git.',
       },
     ],
   },
